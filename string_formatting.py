@@ -42,3 +42,4 @@ print(f"{year} {name} for about ${cost:,.0f}!")
 # 150
 for i in range(0, 151, 50):
     print(f"{i:>4}")
+

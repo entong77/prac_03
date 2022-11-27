@@ -26,3 +26,4 @@ for line in open_file:
 print(total)
 open_file.close()
 
+
